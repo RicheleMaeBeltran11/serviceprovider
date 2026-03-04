@@ -1,4 +1,5 @@
 IprogSMS CREDITS 100
+EXTRACT IN C:\xampp\htdocs\serviceProvider NAME serviceProvider
 
 http://192.168.8.102/serviceProvider/login-page.php
 Email: richellebeltran7@gmail.com
@@ -9,6 +10,7 @@ Note: The system will automatically convert your mobile number to international 
 http://localhost/serviceProvider/
 http://192.168.8.102/serviceProvider/
 CHANGE IP ADDRESS
+Location: C:\xampp\htdocs\serviceProvider
 
 DATABASE
 serviceprovider.sql
@@ -28,6 +30,7 @@ register.php
 forgot-password.php
 dashboard.php
 
+EXTRACT IN C:\xampp\htdocs\serviceProvider NAME serviceProvider
 Step1: Create User Account
 Step2: Login
 Step3: Forgot password
