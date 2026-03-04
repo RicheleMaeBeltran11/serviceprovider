@@ -1,2 +1,43 @@
 # serviceprovider
 PHP API with IprogSMS
+
+IprogSMS CREDITS 100
+EXTRACT IN C:\xampp\htdocs\serviceProvider NAME serviceProvider
+
+http://192.168.8.102/serviceProvider/login-page.php
+Email: richellebeltran7@gmail.com
+Password: 123456
+
+Also can Create Account for testing
+Note: The system will automatically convert your mobile number to international format (63XXXXXXXXXX).
+http://localhost/serviceProvider/
+http://192.168.8.102/serviceProvider/
+CHANGE IP ADDRESS
+Location: C:\xampp\htdocs\serviceProvider
+
+DATABASE
+serviceprovider.sql
+
+API - Can use postman
+createUser.php
+login.php
+sendOtp.php
+verifyOtp.php
+changePassword.php
+getUsers.php 
+
+FRONTEND VIEW
+index.php
+login-page.php
+register.php
+forgot-password.php
+dashboard.php
+
+EXTRACT IN C:\xampp\htdocs\serviceProvider NAME serviceProvider
+Step1: Create User Account
+Step2: Login
+Step3: Forgot password
+Step4: Sent OPT
+Step5: Can change password
+
+Step6: Login with new password
